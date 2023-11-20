@@ -4,6 +4,8 @@ Small Shell Script projects.
 
 #### basket.sh
   - Keep adding elements to the basket. Type quit to exit.
+#### bananacheck.sh
+  - Check if there is the word banana in a file and let's you know it.
 #### calculator.sh
   - Add, subtract, multiply or divide numbers.
 #### frenchArticles.sh
