@@ -12,5 +12,7 @@ Small Shell Script projects.
   - Checks if the file exists in the current folder.
 #### fileSearcher.sh
   - Checks if the file exists in the current folder. Type the file name as an argument.
+#### timer.sh
+  - It's a countdown timer. Select a number and it will count down from that number to zero.
 #### writefile.sh
   - Type the name of the file you want to append to. If it exists in the directory, it'll allow you to enter the text. You can press CTRL + D to exit.
