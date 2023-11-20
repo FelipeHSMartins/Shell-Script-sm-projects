@@ -8,6 +8,8 @@ Small Shell Script projects.
   - Check if there is the word banana in a file and let's you know it.
 #### calculator.sh
   - Add, subtract, multiply or divide numbers.
+#### ducksong.sh
+  - Choose the amount of ducks your want and the program will sing you a song about ducks.
 #### frenchArticles.sh
   - Type the word and the program will tell you if the correct article is l' or le and la .
 #### fileSearch.sh
