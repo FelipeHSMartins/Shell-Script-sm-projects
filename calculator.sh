@@ -24,7 +24,7 @@ then
 elif [[ $operation = "/" ]]
 then
    echo -e "Result: \c"
-   echo "$num1 / $num2" | bc
+   echo "scale=2;$num1 / $num2" | bc
 elif [[ $operation = "*" ]]
 then
    echo -e "Result: \c"
