@@ -16,6 +16,8 @@ Small Shell Script projects.
   - Checks if the file exists in the current folder.
 #### fileSearcher.sh
   - Checks if the file exists in the current folder. Type the file name as an argument.
+#### recursive_factorial.sh
+  - Calculates the factorial of a provided number using a recursive algorithm.
 #### timer.sh
   - It's a countdown timer. Select a number and it will count down from that number to zero.
 #### writefile.sh
